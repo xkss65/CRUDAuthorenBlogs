@@ -20,7 +20,6 @@ import org.springframework.format.annotation.DateTimeFormat;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.therealdanvega.json.JsonDateSerializer;
 
-
 @Entity
 public class Post {
 
